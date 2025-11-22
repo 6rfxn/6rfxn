@@ -1,3 +1,5 @@
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=6rfxn.visitor-badge" alt="visitor badge">
+
 # About Me
 
 Hi, I’m Irfan. I’m a game developer, and I mostly work on solo projects because I don't really like other people touching my work — so yeah, fuck around and find out.
