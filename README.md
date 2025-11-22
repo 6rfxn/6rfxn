@@ -15,6 +15,10 @@ I mainly work with the Roblox engine since it’s really easy to use. I’m stil
 
 </details>
 
+### Language 
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white)
+
+
 ###
 
 <picture>
