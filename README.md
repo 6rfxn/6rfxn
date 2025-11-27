@@ -12,8 +12,6 @@ I mainly work with the Roblox engine since it’s really easy to use. I’m stil
 - [The Ride](https://www.roblox.com/games/14911088043) <br>
 - [The Drag](https://www.roblox.com/games/18453766945) <br>
 - [Slenderman: The Forgotten 8 Pages (Fan-Made)](https://www.roblox.com/games/95568090494682) <br>
-- [Explore Puteri Bongsu - School Project Yeah](https://www.roblox.com/games/119022873431163) 
-
 
 </details>
 
