@@ -9,7 +9,7 @@ I mainly work with the Roblox engine since it’s really easy to use. I’m stil
 <details>
   <summary>Click to reveal</summary>
 
-- [The Ride](https://www.roblox.com/games/14911088043) <br>
+- [The Ride](https://www.roblox.com/games/14911088043) (80,000,000 Visits) <br>
 - [The Drag](https://www.roblox.com/games/18453766945) <br>
 - [Slenderman: The Forgotten 8 Pages (Fan-Made)](https://www.roblox.com/games/95568090494682) <br>
 
