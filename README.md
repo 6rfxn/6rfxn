@@ -13,7 +13,8 @@ I mainly work with the Roblox engine since it's really easy to use. I'm still le
   <summary>The Ride (80,000,000 Visits)</summary>
   
   > [Play on Roblox](https://www.roblox.com/games/14911088043)<br>
-  > [exrgarage.vercel.app](https://exrgarage.vercel.app)<br>
+  > [exrgarage statistic](https://exrgarage.vercel.app)<br>
+  > [exrgarage community](https://discord.gg/exr)<br>
   > Status: Released
   
 </details>
