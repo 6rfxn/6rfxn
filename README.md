@@ -1,7 +1,7 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=6rfxn.visitor-badge" alt="visitor badge">
 
 # About Me
-hey, i'm irfan. game dev.still picking up unity on the side.
+hey, i'm irfan.
 
 ###  Website (WIP)
 [![Website](https://img.shields.io/badge/earfxn.com-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://earfxn.com)
