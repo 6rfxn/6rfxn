@@ -3,7 +3,7 @@
 # About Me
 hey, i'm irfan.
 
-###  Website (WIP)
+###  Website 
 [![Website](https://img.shields.io/badge/earfxn.com-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://earfxn.com)
 
 ### Language
